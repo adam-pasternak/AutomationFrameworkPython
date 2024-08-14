@@ -7,8 +7,8 @@ from TAF_core.frontend.pages.GooglePage import verify_google_logo_is_visible
 from TAF_core.mobile.Android.screens.SettingsScreen import SettingsScreen
 
 
-@pytest.mark.SamsungS21
-def test_example_cross_platform(page, driver, token, random_digit):
+@pytest.mark.SamsungA16
+def test_cross_platform(page, driver, token, random_digit):
 
     # Android sample test
     settings_screen = SettingsScreen(driver)

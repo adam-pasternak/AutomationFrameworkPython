@@ -8,6 +8,4 @@ requests~=2.28.2
 PyAutoGUI~=0.9.54
 Appium-Python-Client~=2.10.0
 selenium~=4.9.1
-pyodbc~=4.0.39
-paramiko~=3.3.1
 allure-pytest==2.13.2
