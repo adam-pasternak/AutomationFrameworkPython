@@ -1,0 +1,13 @@
+{
+    "SamsungS21": {
+        "platformName": "Android",
+        "appium:deviceName": "Galaxy A5 2016",
+        "appium:platformVersion": "7.0",
+        "appium:automationName": "uiAutomator2",
+        "noReset": true,
+        "udid": "3300f3aaa8366389",
+        "appActivity": "com.android.settings.Settings",
+        "appPackage": "com.android.settings",
+        "shouldTerminateApp": true
+    }
+}

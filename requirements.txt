@@ -1,0 +1,13 @@
+Appium_Python_Client==2.10.0
+jproperties==2.1.1
+playwright==1.35.0
+pytest-playwright==0.3.3
+pytest-repeat==0.9.1
+pytest==7.2.1
+requests~=2.28.2
+PyAutoGUI~=0.9.54
+Appium-Python-Client~=2.10.0
+selenium~=4.9.1
+pyodbc~=4.0.39
+paramiko~=3.3.1
+allure-pytest==2.13.2
